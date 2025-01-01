@@ -10,5 +10,6 @@ It is public because my peers are possibly not github users and this is the most
 
 ## Table of Contents
 
+- [Studio Room Layout changes and new measurements](d_19122024.md)
 - [Post wall absorber measurements, monitor placement and sub woofer calibration](d_13042024.md)
 - [Signal Flow and Routing](d_28042024.md)
